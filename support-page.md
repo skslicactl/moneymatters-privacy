@@ -24,9 +24,7 @@
 ✅ Real-time portfolio tracking (Stocks, Crypto, Mutual Funds)  
 ✅ FIRE (Financial Independence, Retire Early) simulation  
 ✅ Multi-user accounts with data isolation  
-✅ Default login (Email: abc@abc.com, Password: 123456)  
-✅ Comprehensive financial planning tools  
-✅ Export reports in CSV, DOC, XLS formats  
+✅ Comprehensive financial planning tools   
 ✅ Currency conversion support  
 ✅ Dark theme optimized for Indian users  
 ✅ iPad and iPhone compatibility  
@@ -45,15 +43,6 @@
 
 ## ❓ Frequently Asked Questions
 
-### What is the default login information?
-**Email:** `abc@abc.com`  
-**Password:** `123456`  
-
-This account is pre-verified and ready to use immediately.
-
-### Can I create multiple user accounts?
-Yes! The app supports unlimited user accounts with complete data isolation. Each user has their own financial records and settings.
-
 ### Is my financial data secure?
 Absolutely. All data is stored locally on your device with encryption. Each user account has complete data isolation, and we don't collect or share your financial information.
 
@@ -62,31 +51,16 @@ FIRE stands for Financial Independence, Retire Early. Our app helps you calculat
 
 ### Which devices are supported?
 Money Matters on Fire is optimized for both iPhone and iPad devices running iOS 14 or later.
-
-### How do I export my financial reports?
-Use the export options in the dashboard to generate reports in CSV, DOC, or XLS formats. Reports can be emailed or shared directly from the app.
-
-### Can I delete a user account?
-Yes, you can delete user accounts from the user management menu. Note: The default account (abc@abc.com) cannot be deleted, and you cannot delete the currently active account.
-
 ---
 
 ## 🔧 Troubleshooting
 
-### Login Issues:
-- Use the default login: abc@abc.com / 123456
-- Make sure you've created and verified your account if using custom credentials
-- Check your internet connection for account verification
 
 ### Data Not Loading:
 - Refresh exchange rates using the refresh button
 - Check your internet connection
 - Try switching between users if you have multiple accounts
 
-### Export Issues:
-- Ensure you have sufficient storage space
-- Check that you've granted necessary permissions
-- Try exporting in a different format (CSV, DOC, XLS)
 
 ---
 
@@ -131,7 +105,6 @@ If you can't find the answer to your question, please contact us:
 ### Security & Privacy
 - **Local Storage Only:** No cloud synchronization or data sharing
 - **Device Encryption:** Military-grade security for financial data
-- **User Verification:** OTP-based account verification for new users
 - **Zero Analytics:** No tracking, no ads, complete privacy
 
 ### Device Compatibility
@@ -140,11 +113,6 @@ If you can't find the answer to your question, please contact us:
 - **Storage:** Approximately 50MB required
 - **Internet:** Required for real-time market data updates
 
-### Export & Reporting
-- **Multiple Formats:** CSV, DOC, XLS export options
-- **Email Delivery:** Direct email with professional formatting
-- **Comprehensive Reports:** Complete financial analysis and projections
-- **Tax Optimization:** Insights for tax planning and compliance
 
 ---
 
@@ -181,7 +149,7 @@ If you can't find the answer to your question, please contact us:
 ### 📱 Download Today
 Start your journey to Financial Independence with the app designed specifically for Indians worldwide.
 
-**Default Login:** abc@abc.com / 123456  
+
 **Get Started:** Instant access, no setup required!
 
 ---
